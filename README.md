@@ -13,10 +13,9 @@ Creating multiplatform applications: Website-Bot Register for new member registr
 ## Project Requirements
 | Part | Description |
 | --- | --- |
-| Features | Create, Read, Update, Delete, Search, Count Data, Validation, Refresh Page, Error Handling |
-| Code | PHP, HTML, CSS, JS, SQL |
-| Framework | Bootstrap 4, Botman |
-| Tools | XAMPP (PHP Version 7.4), Composer, Git, Ngrok |
+| Features | • Create<br>• Read<br>• Update<br>• Delete<br>• Search<br>• Count Data<br>• Validation<br>• Refresh Page<br>• Error Handling |
+| Framework | • Bootstrap 4<br>• Botman |
+| Tools | • Xampp<br>• Composer<br>• Git<br>• Ngrok |
 
 <br><br>
 

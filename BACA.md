@@ -13,10 +13,9 @@ Membuat aplikasi multi platform: Website-Bot Register untuk pendaftaran anggota 
 ## Kebutuhan Proyek
 | Bagian | Deskripsi |
 | --- | --- |
-| Fitur | Buat, Baca, Perbarui, Hapus, Pencarian, Hitung Data, Validasi, Segarkan Halaman, Pengendalian Masalah |
-| Kode | PHP, HTML, CSS, JS, SQL |
-| Kerangka Kerja | Bootstrap 4, Botman |
-| Peralatan | XAMPP (PHP Versi 7.4), Composer, Git, Ngrok |
+| Fitur | • Buat<br>• Baca<br>• Perbarui<br>• Hapus<br>• Pencarian<br>• Hitung Data<br>• Validasi<br>• Segarkan Halaman<br>• Pengendalian Masalah |
+| Kerangka Kerja | • Bootstrap 4<br>• Botman |
+| Peralatan | • Xampp<br>• Composer<br>• Git<br>• Ngrok |
 
 <br><br>
 
