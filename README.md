@@ -4,7 +4,7 @@
 ![Project](https://img.shields.io/badge/Project-Multi-%2DPlatform-light.svg?style=flat&logo=googlechrome&logoColor=white&color=%23F7DF1E)
 ![Type](https://img.shields.io/badge/Type-Campus%20Assignment-light.svg?style=flat&logo=gitbook&logoColor=white&color=%23F7DF1E)
 
-# WB-Register
+# Web - Bot (Register)
 <strong>Web Programming Final Project</strong><br>
 Creating multiplatform applications: Website-Bot Register for new member registration of UPN Veteran Jatim Robotics community.
 
