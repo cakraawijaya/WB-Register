@@ -63,11 +63,11 @@ Creating multiplatform applications: Website-Bot Register for new member registr
 <br><br>
 
 ## Database
-1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section. This aims to be able to support the website optimally.<br><br>
+1. Open ``` XAMPP ```, then start the ``` Apache ``` & ``` MySQL ``` section to run a web server and a database server locally.<br><br>
 
 2. Access the browser first in order to open the database admin panel, please copy the following link: ``` localhost/phpmyadmin/ ```.<br><br>
    
-3. Create a database called ``` wb_register ``` on local.<br><br>
+3. Create a database called ``` wb_register ```.<br><br>
 
 4. Open the ``` wb_register ``` database and Import the ``` WB_Register_db.sql ``` in the ``` WB-Register/assets/sql ``` directory.
 
